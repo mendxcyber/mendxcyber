@@ -1,10 +1,10 @@
 # Cauã Mendes
 
-**Python · Automação · Suporte de TI · Cibersegurança**
+**Segurança Defensiva · Blue Team · Python e Automação**
 
 Desenvolvo ferramentas para organizar processos, integrar sistemas e reduzir tarefas repetitivas. Minha experiência em atendimento remoto, organização de informações e suporte técnico básico orienta os problemas que escolho resolver.
 
-Neste perfil, compartilho código, decisões de implementação e resultados reproduzíveis, com foco em automação e interesse em segurança da informação.
+Meu foco profissional é Segurança Defensiva (Blue Team), com interesse em monitoramento de segurança, análise de logs, detecção de ameaças e resposta a incidentes. Neste perfil, compartilho projetos e decisões de implementação que demonstram minha base em programação, automação e suporte de TI.
 
 ## Projetos em destaque
 
@@ -23,11 +23,11 @@ Os três repositórios são componentes de um mesmo ecossistema. Foram separados
 - Geração e validação de documentos PDF.
 - Testes automatizados, documentação e organização de projetos em código aberto.
 
-## Cibersegurança
+## Direção técnica: Blue Team
 
-Tenho interesse em redes, Linux, análise de vulnerabilidades e segurança ofensiva. Nos projetos de automação, trabalho com tratamento de exceções, revisão de ações e separação de dados pessoais da versão pública.
+Minha direção de desenvolvimento é Blue Team: fundamentos de redes e Linux, análise de logs, monitoramento com SIEM, investigação de alertas e resposta a incidentes. Nos projetos de automação, trabalho com tratamento de exceções, revisão de ações e separação de dados pessoais da versão pública.
 
-Os projetos publicados hoje demonstram principalmente automação e desenvolvimento. Laboratórios específicos de cibersegurança serão adicionados conforme forem realizados e documentados.
+Os projetos publicados hoje demonstram principalmente automação e desenvolvimento. Laboratórios de segurança defensiva serão adicionados conforme forem realizados e documentados, com cenário, evidências e conclusões.
 
 ## Como desenvolvo
 
@@ -39,4 +39,4 @@ Parto de necessidades reais, defino critérios e valido mudanças na prática. U
 
 ---
 
-**English:** Practical Python automation, local tools and browser integrations. Experience in remote customer service and basic IT support, with an interest in information security.
+**English:** Focused on defensive security and Blue Team, with interests in security monitoring, log analysis, threat detection and incident response. Building practical Python automation projects, backed by experience in remote customer service and basic IT support.
